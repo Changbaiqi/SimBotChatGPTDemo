@@ -4,7 +4,7 @@
 
 GPT Python模块请看我学长github：
 
-> https://github.com/Changbaiqi/SimBotChatGPTDemo.git
+> https://github.com/SkyWither/ChatGPT_HTTP
 
 视屏教程请前往：
 
