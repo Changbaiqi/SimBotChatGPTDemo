@@ -1,0 +1,11 @@
+{
+    "component": "simbot.mirai",
+    "code": 账号(不需要带引号),
+    "passwordInfo": {
+        "type": "text",
+        "text": "密码"
+    },
+    "config": {
+        "protocol": "IPAD"
+    }
+}
