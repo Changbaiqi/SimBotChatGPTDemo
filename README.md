@@ -2,10 +2,10 @@
 
 ---
 
-Python模块请看我学长github：
+GPT Python模块请看我学长github：
 
 > https://github.com/Changbaiqi/SimBotChatGPTDemo.git
 
 视屏教程请前往：
 
-> 
+> https://b23.tv/stb9Q3R
